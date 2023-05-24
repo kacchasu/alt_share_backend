@@ -1,3 +1,4 @@
+<h1>ALT + SHARE</h1>
 RESTFUL веб-сервис онлайн-барахолки для продажи вещей среди альт-сообщества
 <h1>Функции</h1>
 Отображение каталога с товарами<br>
@@ -17,3 +18,4 @@ org.postgresql.postgresql<br>
 org.projectlombok.lombok<br>
 org.springframework.boot.spring-boot-starter-test<br>
 org.springframework.security.spring-security-test
+<h3>Команда для запуска mvn spring-boot:run</h3>
