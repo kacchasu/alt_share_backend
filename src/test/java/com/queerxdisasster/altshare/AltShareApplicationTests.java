@@ -8,3 +8,6 @@ class AltShareApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}

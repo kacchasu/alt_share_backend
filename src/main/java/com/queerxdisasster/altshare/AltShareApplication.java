@@ -7,4 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AltShareApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AltShareApplication.class, args
+        SpringApplication.run(AltShareApplication.class, args);
+    }
+
+}
